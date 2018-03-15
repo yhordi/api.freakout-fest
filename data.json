@@ -2,12 +2,12 @@ HTTP/1.1 200 OK
 Content-Type: application/vnd.api+json
 
 {
-  "body":
+  "data":
     [
       {
         "name": "The Clash",
         "pic": "./../assets/cat-flying.jpg",
-        "id": 1,
+        "id": "1",
         "description": "The only band that matters.",
         "gigInfo": {
           "day": "Thursday",
@@ -18,7 +18,7 @@ Content-Type: application/vnd.api+json
       {
         "name": "Blind Willy McTell",
         "pic": "./../assets/cat-flying.jpg",
-        "id": 2,
+        "id": "2",
         "description": "Brilliant blues guitarist",
         "gigInfo": {
           "day": "Thursday",
@@ -29,7 +29,7 @@ Content-Type: application/vnd.api+json
       {
         "name": "The Hamburgler",
         "pic": "./../assets/cat-flying.jpg",
-        "id": 3,
+        "id": "3",
         "description": "Ground Beef Sandwich Thief",
         "gigInfo": {
           "day": "Friday",
@@ -40,7 +40,7 @@ Content-Type: application/vnd.api+json
       {
         "name": "Joe Biden",
         "pic": "./../assets/cat-flying.jpg",
-        "id": 4,
+        "id": "4",
         "description": "Former Vice President of the United States",
         "gigInfo": {
           "day": "Thursday",
@@ -51,7 +51,7 @@ Content-Type: application/vnd.api+json
       {
         "name": "The Beets",
         "pic": "./../assets/cat-flying.jpg",
-        "id": 5,
+        "id": "5",
         "description": "Ground Beef Sandwich Thief",
         "gigInfo": {
           "day": "Friday",
@@ -62,7 +62,7 @@ Content-Type: application/vnd.api+json
       {
         "name": "Porter Ray",
         "pic": "./../assets/cat-flying.jpg",
-        "id": 6,
+        "id": "6",
         "description": "Former Vice President of the United States",
         "gigInfo": {
           "day": "Saturday",
