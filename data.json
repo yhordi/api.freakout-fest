@@ -2,69 +2,72 @@ HTTP/1.1 200 OK
 Content-Type: application/vnd.api+json
 
 {
-  body:
+  "body":
     [
       {
-        name: 'The Clash',
-        pic: require('./../assets/cat-flying.jpg'),
-        id: 1, description: 'The only band that matters.',
-        gigInfo: {
-          day: 'Thursday',
-          time: '7:30pm',
-          venue: 'Sunset Tavern'
+        "name": "The Clash",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": 1,
+        "description": "The only band that matters.",
+        "gigInfo": {
+          "day": "Thursday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
         }
       },
       {
-        name: 'Blind Willy McTell',
-        pic: require('./../assets/cat-flying.jpg'),
-        id: 2, description: 'Brilliant blues guitarist',
-        gigInfo: {
-          day: 'Thursday',
-          time: '8:30pm',
-          venue: 'Sunset Tavern'
+        "name": "Blind Willy McTell",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": 2,
+        "description": "Brilliant blues guitarist",
+        "gigInfo": {
+          "day": "Thursday",
+          "time": "8:30pm",
+          "venue": "Sunset Tavern"
         }
       },
       {
-        name: 'The Hamburgler',
-        pic: require('./../assets/cat-flying.jpg'),
-        id: 3, description: 'Ground Beef Sandwich Thief',
-        gigInfo: {
-          day: 'Friday',
-          time: '12:30pm',
-          venue: 'Sunset Tavern'
+        "name": "The Hamburgler",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": 3,
+        "description": "Ground Beef Sandwich Thief",
+        "gigInfo": {
+          "day": "Friday",
+          "time": "12:30pm",
+          "venue": "Sunset Tavern"
         }
       },
       {
-        name: 'Joe Biden',
-        pic: require('./../assets/cat-flying.jpg'),
-        id: 4,
-        description: 'Former Vice President of the United States',
-        gigInfo: {
-          day: 'Thursday',
-          time: '7:30pm',
-          venue: 'Sunset Tavern'
+        "name": "Joe Biden",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": 4,
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Thursday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
         }
       },
       {
-        name: 'The Beets',
-        pic: require('./../assets/cat-flying.jpg'),
-        id: 5,
-        description: 'Ground Beef Sandwich Thief',
-        gigInfo: {
-          day: 'Friday',
-          time: '2:30pm',
-          venue: 'Cafe Umbria'
+        "name": "The Beets",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": 5,
+        "description": "Ground Beef Sandwich Thief",
+        "gigInfo": {
+          "day": "Friday",
+          "time": "2:30pm",
+          "venue": "Cafe Umbria"
         }
       },
       {
-        name: 'Porter Ray',
-        pic: require('./../assets/cat-flying.jpg'),
-        id: 6,
-        description: 'Former Vice President of the United States',
-        gigInfo: {
-          day: 'Saturday',
-          time: '7:30pm',
-          venue: 'Sunset Tavern'
+        "name": "Porter Ray",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": 6,
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
         }
       },
     ]
