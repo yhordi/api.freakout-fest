@@ -6,7 +6,7 @@
     [
       {
         "name": "The Clash",
-        "pic": "./../assets/cat-flying.jpg",
+        "pic": "https://www.rockarchive.com/media/1104/the-clash-cl001abal.jpg?crop=0.0736,0,0.2064,0&cropmode=percentage&width=800&height=800&rnd=131147882780000000&overlay=watermark.png&overlay.size=230,20&overlay.position=0,780",
         "id": "1",
         "description": "The only band that matters.",
         "gigInfo": {
