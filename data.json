@@ -5,10 +5,10 @@
   "data":
     [
       {
-        "name": "The Clash",
+        "name": "All Them Witches",
         "pic": "https://www.rockarchive.com/media/1104/the-clash-cl001abal.jpg?crop=0.0736,0,0.2064,0&cropmode=percentage&width=800&height=800&rnd=131147882780000000&overlay=watermark.png&overlay.size=230,20&overlay.position=0,780",
         "id": "1",
-        "description": "The only band that matters.",
+        "description": "",
         "gigInfo": {
           "day": "Thursday",
           "time": "7:30pm",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "name": "Blind Willy McTell",
+        "name": "Night Beats",
         "pic": "./../assets/cat-flying.jpg",
         "id": "2",
         "description": "Brilliant blues guitarist",
@@ -27,7 +27,7 @@
         }
       },
       {
-        "name": "The Hamburgler",
+        "name": "Flaural",
         "pic": "./../assets/cat-flying.jpg",
         "id": "3",
         "description": "Ground Beef Sandwich Thief",
@@ -38,7 +38,7 @@
         }
       },
       {
-        "name": "Joe Biden",
+        "name": "The Grizzled Mighty",
         "pic": "./../assets/cat-flying.jpg",
         "id": "4",
         "description": "Former Vice President of the United States",
@@ -49,7 +49,7 @@
         }
       },
       {
-        "name": "The Beets",
+        "name": "Acid Toungue",
         "pic": "./../assets/cat-flying.jpg",
         "id": "5",
         "description": "Ground Beef Sandwich Thief",
@@ -60,7 +60,7 @@
         }
       },
       {
-        "name": "Porter Ray",
+        "name": "Los Mundos",
         "pic": "./../assets/cat-flying.jpg",
         "id": "6",
         "description": "Former Vice President of the United States",
@@ -69,6 +69,281 @@
           "time": "7:30pm",
           "venue": "Sunset Tavern"
         }
-      }
+      },
+      {
+        "name": "Sneaks",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Death Valley Girls",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Pearl Charles",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "The Mammoths",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Stas the Boss",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Monsterwatch",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Chris King & The Gutterballs",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Ghost King",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Koga Shabazz",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Tempesst",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Brackets",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Falon Sierra",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Roselit Bone",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Coke",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Prism Bitch",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Gold Casio",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Los Blenders",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Stahv",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Handsome Jack",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Danny Dodge",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Ocnotes",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Jusmoni",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Kitty Crimes",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Close Encounter",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
+      {
+        "name": "Dirty Rugs",
+        "pic": "./../assets/cat-flying.jpg",
+        "id": "6",
+        "description": "Former Vice President of the United States",
+        "gigInfo": {
+          "day": "Saturday",
+          "time": "7:30pm",
+          "venue": "Sunset Tavern"
+        }
+      },
     ]
 }
